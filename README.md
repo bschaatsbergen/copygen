@@ -1,7 +1,7 @@
 # copygen
 
 > [!WARNING]  
-> This is a work in progress and not yet ready for use yet.
+> This is under development and not ready for use yet.
 
 Copygen is a tool that automates adding license headers to source files.
 
